@@ -1,23 +1,62 @@
-<h1 align="center">Hi 👋, I'm mohamed gamal</h1>
-<h3 align="center">A passionate backend developer from egypt</h3>
+# Hi 👋, I'm Mohamed Gamal
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedgamaal16&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedgamaal16" /> </p>
+### A passionate Backend Developer from Egypt
 
-- 🔭 I’m currently working at **code81**
-
-- 🌱 I’m currently learning **backend**
-
-- 📫 How to reach me **mahooomar53@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/13PFf-wRLU16bvUycx0zo8-AUSpaPZipK/view?usp=sharing](https://drive.google.com/file/d/13PFf-wRLU16bvUycx0zo8-AUSpaPZipK/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-gamal-19070422b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-gamal-19070422b" height="30" width="40" /></a>
-<a href="https://fb.com/100007829283648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100007829283648" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mohamedgamaal16&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+🔭 **Currently working at:** **Code81**  
+🌱 **Learning:** Advanced Backend (microservices, distributed systems)  
+📫 **Contact:** mahooomar53@gmail.com  
+📄 **Resume:** [View my CV](https://drive.google.com/file/d/13PFf-wRLU16bvUycx0zo8-AUSpaPZipK/view?usp=sharing)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedgamaal16&show_icons=true&locale=en&layout=compact" alt="mohamedgamaal16" /></p>
+---
+
+### Connect with me
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/mohamed-gamal-19070422b) &nbsp;
+[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/100007829283648)
+
+---
+
+### About me
+I'm a backend-focused developer who likes building robust, production-ready services. I enjoy working with Java and the Spring ecosystem, designing APIs, and improving system reliability with messaging and microservice patterns.
+
+---
+
+### What I do
+- Design and implement RESTful APIs and microservices
+- Build resilient systems using Spring Boot, Spring Cloud, and RabbitMQ
+- Secure endpoints and manage authentication & authorization with Spring Security
+- Containerize and deploy applications with Docker (and CI/CD pipelines)
+- Work with relational and NoSQL databases (MySQL, PostgreSQL, MongoDB)
+
+---
+
+### Languages & Tools
+
+[![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)](https://spring.io/)  
+[![Spring Cloud](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)](https://spring.io/projects/spring-cloud)  
+[![Spring Security](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg)](https://spring.io/projects/spring-security)  
+[![RabbitMQ](https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg)](https://www.rabbitmq.com/)  
+[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com/)  
+[![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)](https://www.docker.com/)  
+[![Kotlin / C++ / TS / JS / Dart / Flutter / Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/)  
+[![Databases](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)](https://www.postgresql.org/)  
+[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)  
+[![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)  
+<!-- Add more icons below as needed -->
+
+---
+
+### GitHub stats
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedgamaal16&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+</p>
+
+---
+
+If you want, I can:
+- Convert this to a fully styled **HTML** version (ready for an about page).
+- Add or replace any icons you prefer.
+- Shorten or expand sections (e.g., Projects, Certifications, Recent work).
