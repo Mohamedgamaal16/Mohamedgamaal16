@@ -1,12 +1,20 @@
 <h1 align="center">Hi 👋, I'm mohamed gamal</h1>
 <h3 align="center">A passionate backend developer from egypt</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedgamaal16&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedgamaal16" /> </p>
+
+- 🔭 I’m currently working on **code81**
+
+- 🌱 I’m currently learning **backend**
+
 - 📫 How to reach me **mahooomar53@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/13PFf-wRLU16bvUycx0zo8-AUSpaPZipK/view?usp=sharing](https://drive.google.com/file/d/13PFf-wRLU16bvUycx0zo8-AUSpaPZipK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed gamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed gamal" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed gamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed gamal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-gamal-19070422b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-gamal-19070422b" height="30" width="40" /></a>
+<a href="https://fb.com/100007829283648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100007829283648" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
