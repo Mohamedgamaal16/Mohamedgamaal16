@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **code81**
 
-- 🌱 I’m currently learning **backend**
+- 🌱 I’m currently learning **backend** **database engineering**
 
 - 📫 How to reach me **mahooomar53@gmail.com**
 
