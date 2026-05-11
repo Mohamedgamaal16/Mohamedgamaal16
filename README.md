@@ -18,31 +18,6 @@
 
 ---
 
-### 💼 Work Experience
-
-**Code81** *(10/2025 – Present)* — Java / Spring Boot · Cairo, Egypt
-- Contributing to the FHO project in Saudi Arabia, building and securing RESTful APIs
-- Implemented a Retrieval-Augmented Generation (RAG) system in Python to enhance chatbot response accuracy
-
-**Fawry** *(03/2025 – 07/2025)* — Full-Stack Intern (Java / Angular) · Cairo, Egypt
-- Developed RESTful APIs for the Order Management System, improving transaction efficiency by 25%
-- Integrated RabbitMQ for asynchronous order processing
-- Designed and optimized SQL schemas with ACID compliance, ensuring 100% data integrity
-- Implemented unit tests with JUnit and Mockito, achieving 90% code coverage
-
-**ABS.AI Technologies** *(07/2024 – 02/2025)* — Junior Software Developer · New Cairo, Egypt
-- Developed **El Akaber Restaurant App** & dashboard — live on [Google Play](https://play.google.com/store/apps/details?id=com.absai.sobhikaber_dashboard.prod&hl=en) & [App Store](https://apps.apple.com/eg/app/el-akaber/id6739861335), serving 5,000+ users
-- Built **Brofa E-commerce App** & dashboard, increasing sales by 10%
-
----
-
-### 🚀 Projects
-
-**[Movies API](https://github.com/Mohamedgamaal16/moviesApi)** | **[Movies UI](https://github.com/Mohamedgamaal16/movieUI.git)** *(06/2025 – 07/2025)*
-- RESTful API with Spring Boot, Spring Security & MySQL, handling 1,000+ daily queries
-- Implemented JWT authentication and pagination, reducing response time by 30%
-
----
 
 ### 🛠️ Skills
 
